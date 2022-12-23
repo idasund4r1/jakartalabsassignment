@@ -1,0 +1,1 @@
+{"uuid":"455d1bc4-5228-4f22-b285-8857ae8d178c","name":"qatesting.october.SwagLabsTest2.tearDown","description":"","start":1668610100242,"stop":1668610100417,"children":["50540192-4b09-45ce-a49b-36d3d5eef967"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1668610100242,"stop":1668610100417}]}

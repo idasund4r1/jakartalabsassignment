@@ -1,0 +1,1 @@
+{"uuid":"b19d4d97-38c5-466e-973f-9e6a0a90ed60","name":"qatesting.october.BaseSLTest.setUp","description":"","start":1667651777650,"stop":1667651780588,"children":["e2ce1bfc-9676-4e2e-b92b-51205dafa9ce"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1667651777651,"stop":1667651780588}]}

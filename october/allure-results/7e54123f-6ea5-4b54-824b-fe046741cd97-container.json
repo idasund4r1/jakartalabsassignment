@@ -1,0 +1,1 @@
+{"uuid":"7e54123f-6ea5-4b54-824b-fe046741cd97","name":"qatesting.october.BaseTestyopmail.tearDown","description":"","start":1668492567670,"stop":1668492568018,"children":["77da2360-9604-4d1b-93e7-bb63976d5cf7"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1668492567671,"stop":1668492568018}]}

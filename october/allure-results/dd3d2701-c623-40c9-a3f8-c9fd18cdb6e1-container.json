@@ -1,0 +1,1 @@
+{"uuid":"dd3d2701-c623-40c9-a3f8-c9fd18cdb6e1","name":"task.qatesting.october.ida.BaseSLTest.setUp","description":"","start":1669267231941,"stop":1669267255286,"children":["59696a35-c998-4c82-a34c-016685888a65"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1669267231942,"stop":1669267255284}]}

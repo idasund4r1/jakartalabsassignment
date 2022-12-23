@@ -1,0 +1,1 @@
+{"uuid":"5aaa9756-c598-4386-9bce-ed2cf65455c3","name":"task.qatesting.october.ida.BaseTestyopmail.setUp","description":"","start":1670217780604,"stop":1670217786839,"children":["1db19234-5202-48ec-9d9b-fa950438a1f1"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1670217780605,"stop":1670217786839}]}

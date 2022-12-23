@@ -1,0 +1,1 @@
+{"uuid":"c13b3b91-a1e4-48cb-8fec-478a4b6cedd9","name":"task.qatesting.october.ida.BaseSLTest.tearDown","description":"","start":1669267851561,"stop":1669267851815,"children":["e183be87-f9f0-446d-b52e-ad91a81fdc12"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1669267851561,"stop":1669267851815}]}
