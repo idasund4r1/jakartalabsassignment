@@ -51,5 +51,6 @@ testng-mobile-browserstack-tugas6
 ```
 
 # Tugas 7 Create Load test Jmeter report 
-
-
+```
+Tugas 7.zip
+```
