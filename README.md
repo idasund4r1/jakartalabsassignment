@@ -46,7 +46,9 @@ src\test\java\task\qatesting\october\ida\apitestsignu
 2. Input username, Password, and Click login button 
 3. Click add to cart 
 4. Click checkout page 
-
+```
+testng-mobile-browserstack-tugas6
+```
 
 # Tugas 7 Create Load test Jmeter report 
 
